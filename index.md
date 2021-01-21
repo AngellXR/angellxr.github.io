@@ -6,7 +6,7 @@ We're XR enthusiasts, tinkerers, and entrepreneurs working together to support t
 
 Our first product is an open showcase of XR creations. Seamlessly explore Worlds, memories, games, and assets on any device. To experience for yourself, visit [SandboXR](https://angellxr.github.io/sandboxr/).
 
-Want to submit your work? Use [this form](https://docs.google.com/forms/d/e/1FAIpQLScBCqQuLz1RS-6o-jRTCsjpQjvwMhMufvlxho-fY5qMQxyg5w/viewform) to submit your work.
+Have a WebXR project we can showcase? Use [this form](https://docs.google.com/forms/d/e/1FAIpQLScBCqQuLz1RS-6o-jRTCsjpQjvwMhMufvlxho-fY5qMQxyg5w/viewform) to submit your work.
 
 ### Learn more
 
