@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: angellxr.github.io
+Token: a00104be5e00b76614f353619a3704f94df4613f67b29584552811dc72713fac
