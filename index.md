@@ -1,18 +1,18 @@
-## Welcome to GitHub Pages
+## Welcome to the AngellXR Github Homepage
 
-You can use the [editor on GitHub](https://github.com/AngellXR/angellxr.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We're XR enthusiasts, tinkerers, and entrepreneurs co-creating the open Metaverse.
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This page uses Markdown. Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
 
 # Header 1
+
 ## Header 2
+
 ### Header 3
 
 - Bulleted
@@ -28,10 +28,12 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### SandboXR
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AngellXR/angellxr.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Our first product is an open showcase of XR creations. Seamlessly explore Worlds, memories, games, and assets on any device. To experience for yourself, visit [SandboXR](https://angellxr.github.io/sandboxr/).
 
-### Support or Contact
+Want to submit your work? Use [this form](https://docs.google.com/forms/d/e/1FAIpQLScBCqQuLz1RS-6o-jRTCsjpQjvwMhMufvlxho-fY5qMQxyg5w/viewform) to submit your work.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Learn more
+
+Want to learn more about AngellXR? Visit [AngellXR](https://angellxr.com/)
